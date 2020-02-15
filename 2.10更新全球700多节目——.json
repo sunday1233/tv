@@ -4,47 +4,6 @@
 
 	"channels": [
 {
-			"name":"卫星剧场HD",
-			"url": "http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8"
-		},
-{
-			"name":"日本映画HD",
-			"url": "http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8"
-		},
-{
-			"name":"潘朵拉",
-			"url": "http://59.120.242.104:9000/live/live7.m3u8"
-		},
-{
-			"name":"松視HD",
-			"url": "http://59.120.242.104:9000/live/live6.m3u8"
-		},
-{
-			"name":"心动电影",
-			"url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8"
-		},
-{
-			"name":"心动电影2",
-			"url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8"
-		},
-{
-			"name":"心动电影3",
-			"url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8"
-		},
-{
-			"name":"心动电影4",
-			"url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream4/playlist.m3u8"
-		},
-{
-			"name":"花花公子蒙古",
-			"url": "http://spacetv.in/stream/WUQP6BVK17/56.m3u8"
-		},
-{
-			"name":"花花公子韩国",
-			"url": "http://122.38.74.172:9981/stream/channelid/966306501.m3u8"
-		},
-
-{
 			"name":"韩国TV Chosun",
 			"url": "http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8"
 		},
